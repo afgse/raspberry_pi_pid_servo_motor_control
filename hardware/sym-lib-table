@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name l298n)(type Legacy)(uri /home/jason/l298n.lib)(options "")(descr ""))
+)
