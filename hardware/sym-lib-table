@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name l298n)(type Legacy)(uri /home/jason/l298n.lib)(options "")(descr ""))
+  (lib (name 391_PID_MOTOR_CONTROL-rescue)(type Legacy)(uri ${KIPRJMOD}/391_PID_MOTOR_CONTROL-rescue.lib)(options "")(descr ""))
 )
